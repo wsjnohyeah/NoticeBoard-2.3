@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/hfinotice/!svn/ver/1346/1/autocopy
+END
+db_backup.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/hfinotice/!svn/ver/1346/1/autocopy/db_backup.php
+END
+db_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/hfinotice/!svn/ver/1346/1/autocopy/db_config.php
+END
+cs_smtp.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/hfinotice/!svn/ver/1346/1/autocopy/cs_smtp.class.php
+END
+db_callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/hfinotice/!svn/ver/1346/1/autocopy/db_callback.php
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/hfinotice/!svn/ver/1565/1/application/controllers
+END
+welcome.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/hfinotice/!svn/ver/1557/1/application/controllers/welcome.php
+END
+votes.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/hfinotice/!svn/ver/1346/1/application/controllers/votes.php
+END
+setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/hfinotice/!svn/ver/1346/1/application/controllers/setup.php
+END
+files.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/hfinotice/!svn/ver/1565/1/application/controllers/files.php
+END
+powerschool.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/hfinotice/!svn/ver/1346/1/application/controllers/powerschool.php
+END
+copyright.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/hfinotice/!svn/ver/1346/1/application/controllers/copyright.php
+END
+login_c.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/hfinotice/!svn/ver/1346/1/application/controllers/login_c.php
+END
+usersetting.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/hfinotice/!svn/ver/1346/1/application/controllers/usersetting.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/hfinotice/!svn/ver/1346/1/application/controllers/test.php
+END
+danmaku.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/hfinotice/!svn/ver/1516/1/application/controllers/danmaku.php
+END
+peerbuddy.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/hfinotice/!svn/ver/1346/1/application/controllers/peerbuddy.php
+END
+homework_cancelled.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/hfinotice/!svn/ver/1346/1/application/controllers/homework_cancelled.php
+END
+notification.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/hfinotice/!svn/ver/1346/1/application/controllers/notification.php
+END
+lessons.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/hfinotice/!svn/ver/1346/1/application/controllers/lessons.php
+END
+adduser.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/hfinotice/!svn/ver/1346/1/application/controllers/adduser.php
+END

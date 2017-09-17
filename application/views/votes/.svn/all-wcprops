@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/hfinotice/!svn/ver/1346/1/application/views/votes
+END
+votepage.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/hfinotice/!svn/ver/1346/1/application/views/votes/votepage.php
+END
+resultpage.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/hfinotice/!svn/ver/1346/1/application/views/votes/resultpage.php
+END
+votes.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/hfinotice/!svn/ver/1346/1/application/views/votes/votes.php
+END
+protected_resultpage.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/hfinotice/!svn/ver/1346/1/application/views/votes/protected_resultpage.php
+END
+multivotepage.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/hfinotice/!svn/ver/1346/1/application/views/votes/multivotepage.php
+END
